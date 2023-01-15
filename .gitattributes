@@ -2,6 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 *.cshtml linguist-detectable=false
+*.html linguist-detectable=false
 
 * text=auto
 
